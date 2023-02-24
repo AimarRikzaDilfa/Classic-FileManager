@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\File Manager Classic\bin\Debug\File Manager Classic.exe.config
+D:\Visual Studio Projects\File Manager Classic\bin\Debug\File Manager Classic.exe
+D:\Visual Studio Projects\File Manager Classic\bin\Debug\File Manager Classic.pdb
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File_Manager_Classic.Form1.resources
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File_Manager_Classic.Properties.Resources.resources
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.csproj.GenerateResource.cache
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.exe
+D:\Visual Studio Projects\File Manager Classic\obj\Debug\File Manager Classic.pdb
