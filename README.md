@@ -1,4 +1,4 @@
-# File-Manager-Classic
+# Classic File Manager
 This a file manager created by me, in visual studio.
 
 If you downloaded this project and see like dangerous virus popup in chrome, just keep it, there is
